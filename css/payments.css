@@ -5,7 +5,7 @@
   height: 460px;
   margin-top: 24px;
   padding: 0 24px;
-  width: 100%;
+  width: 94%;
 }
 
 .payments .content-container .image-gallery .image.first {
@@ -55,5 +55,6 @@
   }
   .payments .content-container .image-gallery {
     width: 820px;
+    margin: 0;
   }
 }
